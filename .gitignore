@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PLECS / MATLAB / Simulink temporäre Dateien
+*.plecs~
+*.mat
+slprj/
+*.asv
+*.bak
