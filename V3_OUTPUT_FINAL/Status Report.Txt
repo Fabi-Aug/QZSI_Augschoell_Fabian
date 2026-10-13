@@ -1,0 +1,26 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [QZSI_3P_A360.PrjPcb]
+   Generated File[QZSI_3P_V1 - Kopie_Copper_Signal_Top.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Copper_Signal_1.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Copper_Signal_2.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Copper_Signal_3.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Copper_Signal_4.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Copper_Signal_Bot.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Legend_Top.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Legend_Bot.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Soldermask_Top.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Soldermask_Bot.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Paste_Top.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Paste_Bot.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_Profile.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_NPTH_Drill.gbr]
+   Generated File[QZSI_3P_V1 - Kopie_PTH_Drill.gbr]
+   Generated File[QZSI_3P_V1 - Kopie.EXTREP]
+   Generated File[QZSI_3P_V1 - Kopie.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 12:39:24 On 31.07.2026

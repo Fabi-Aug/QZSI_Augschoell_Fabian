@@ -1,0 +1,1323 @@
+Wire List
+
+<<< Component List >>>
+890744427001CS                  C1             WCAP-FTDB_L32W11H20
+C0603C104K5RACAUTO              C1_AC_U_A      FP-C0603C-CF-IPC_A
+C0603C104K5RACAUTO              C1_AC_U_A      FP-C0603C-CF-IPC_A
+0805ZC104K4T2A                  C1_I_AC_u      CAPC2012X94N
+0805ZC104K4T2A                  C1_I_AC_v      CAPC2012X94N
+0805ZC104K4T2A                  C1_I_PV        CAPC2012X94N
+C0603C104K5RACAUTO              C1_U_C1        FP-C0603C-CF-IPC_A
+C0603C104K5RACAUTO              C1_U_PV        FP-C0603C-CF-IPC_A
+890744427001CS                  C2             WCAP-FTDB_L32W11H20
+CGA3E1X7R1E105K080AC            C2_AC_U_A      FP-CGA3E-0_3-0_1-IPC_A
+CGA3E1X7R1E105K080AC            C2_AC_U_A      FP-CGA3E-0_3-0_1-IPC_A
+CGA3E1X7R1E105K080AC            C2_U_C1        FP-CGA3E-0_3-0_1-IPC_A
+CGA3E1X7R1E105K080AC            C2_U_PV        FP-CGA3E-0_3-0_1-IPC_A
+C0603C102K5RACTU                C3_AC_U_A      FP-C0603C-CF-IPC_A
+C0603C102K5RACTU                C3_AC_U_A      FP-C0603C-CF-IPC_A
+C0603C102K5RACTU                C3_U_C1        FP-C0603C-CF-IPC_A
+C0603C102K5RACTU                C3_U_PV        FP-C0603C-CF-IPC_A
+C0603C104K5RACAUTO              C4_AC_U_A      FP-C0603C-CF-IPC_A
+C0603C104K5RACAUTO              C4_AC_U_A      FP-C0603C-CF-IPC_A
+C0603C104K5RACAUTO              C4_U_C1        FP-C0603C-CF-IPC_A
+C0603C104K5RACAUTO              C4_U_PV        FP-C0603C-CF-IPC_A
+C3216NP01H104J160AA             C5_AC_U_A      FP-C3216-160-0_2-IPC_A
+C3216NP01H104J160AA             C5_AC_U_A      FP-C3216-160-0_2-IPC_A
+C3216NP01H104J160AA             C5_U_C1        FP-C3216-160-0_2-IPC_A
+C3216NP01H104J160AA             C5_U_PV        FP-C3216-160-0_2-IPC_A
+12065C102KAT2A                  C6_AC_U_A      AVX-12065C102KAT2A_N
+12065C102KAT2A                  C6_AC_U_A      AVX-12065C102KAT2A_N
+12065C102KAT2A                  C6_U_C1        AVX-12065C102KAT2A_N
+12065C102KAT2A                  C6_U_PV        AVX-12065C102KAT2A_N
+12065C102KAT2A                  C8_AC_U_A      AVX-12065C102KAT2A_N
+12065C102KAT2A                  C8_AC_U_A      AVX-12065C102KAT2A_N
+12065C102KAT2A                  C8_U_C1        AVX-12065C102KAT2A_N
+12065C102KAT2A                  C8_U_PV        AVX-12065C102KAT2A_N
+12063C105KAT2A                  C9_AC_U_A      FP-1206-L_3_2_0_2-W_1_6_0-IPC
+12063C105KAT2A                  C9_AC_U_A      FP-1206-L_3_2_0_2-W_1_6_0-IPC
+12063C105KAT2A                  C9_U_C1        FP-1206-L_3_2_0_2-W_1_6_0-IPC
+12063C105KAT2A                  C9_U_PV        FP-1206-L_3_2_0_2-W_1_6_0-IPC
+C0805C102J5GACTU                C10_AC_U_      FP-C0805C-DN-IPC_A
+C0805C102J5GACTU                C10_AC_U_      FP-C0805C-DN-IPC_A
+C0805C101J5GACTU                C10_U_C1       FP-C0805C-DN-IPC_A
+C0805C101J5GACTU                C10_U_PV       FP-C0805C-DN-IPC_A
+C0805C102J5GACTU                C20_AC_U_      FP-C0805C-DN-IPC_A
+C0805C102J5GACTU                C20_AC_U_      FP-C0805C-DN-IPC_A
+C0805C331J5GACTU                C20_U_C1       FP-C0805C-DN-IPC_A
+C0805C331J5GACTU                C20_U_PV       FP-C0805C-DN-IPC_A
+C0805C102J5GACTU                C21_AC_U_      FP-C0805C-DN-IPC_A
+C0805C102J5GACTU                C21_AC_U_      FP-C0805C-DN-IPC_A
+C0805C331J5GACTU                C21_U_C1       FP-C0805C-DN-IPC_A
+C0805C331J5GACTU                C21_U_PV       FP-C0805C-DN-IPC_A
+C0805C104K5RACTU                C_BYP_OP_      FP-C0805C-DN-IPC_A
+C0805C104K5RACTU                C_BYP_OP_      FP-C0805C-DN-IPC_A
+C0805C104K5RACTU                C_BYP_REF      FP-C0805C-DN-IPC_A
+C0805C104K5RACTU                C_BYP_REF      FP-C0805C-DN-IPC_A
+C0805C104K5RACTU                C_BYP_U_C      FP-C0805C-DN-IPC_A
+C0805C104K5RACTU                C_BYP_U_P      FP-C0805C-DN-IPC_A
+C0603C104K5RACAUTO              C_DEC_1        FP-C0603C-CF-IPC_A
+C0603C104K5RACAUTO              C_DEC_2        FP-C0603C-CF-IPC_A
+890334027025CS                  C_F_u          WCAP-FTXX_L31W15.5H29
+890334027025CS                  C_F_v          WCAP-FTXX_L31W15.5H29
+890334027025CS                  C_F_w          WCAP-FTXX_L31W15.5H29
+CC1206KKX7R9BB475               CA1_HB1        FP-CC1206-1_25-IPC_A
+CC1206KKX7R9BB475               CA1_HB2        FP-CC1206-1_25-IPC_A
+CC1206KKX7R9BB475               CA1_HB3        FP-CC1206-1_25-IPC_A
+C0603C104K5RACTU                CA2_HB1        FP-C0603C-CF-IPC_A
+C0603C104K5RACTU                CA2_HB2        FP-C0603C-CF-IPC_A
+C0603C104K5RACTU                CA2_HB3        FP-C0603C-CF-IPC_A
+CC1206KKX7R9BB475               CB1_HB1        FP-CC1206-1_25-IPC_A
+CC1206KKX7R9BB475               CB1_HB2        FP-CC1206-1_25-IPC_A
+CC1206KKX7R9BB475               CB1_HB3        FP-CC1206-1_25-IPC_A
+C0603C104K5RACTU                CB2_HB1        FP-C0603C-CF-IPC_A
+C0603C104K5RACTU                CB2_HB2        FP-C0603C-CF-IPC_A
+C0603C104K5RACTU                CB2_HB3        FP-C0603C-CF-IPC_A
+C0603C102J5GACTU                CEN_HB1        FP-C0603C-CF-IPC_A
+C0603C102J5GACTU                CEN_HB2        FP-C0603C-CF-IPC_A
+C0603C102J5GACTU                CEN_HB3        FP-C0603C-CF-IPC_A
+C0603C330J5GACTU                CIN1_HB1       FP-C0603C-CF-IPC_A
+C0603C330J5GACTU                CIN1_HB2       FP-C0603C-CF-IPC_A
+C0603C330J5GACTU                CIN1_HB3       FP-C0603C-CF-IPC_A
+C0603C330J5GACTU                CIN2_HB1       FP-C0603C-CF-IPC_A
+C0603C330J5GACTU                CIN2_HB2       FP-C0603C-CF-IPC_A
+C0603C330J5GACTU                CIN2_HB3       FP-C0603C-CF-IPC_A
+0603YC104K4T4A                  CVCC_HB1       CAPC1608X90N
+0603YC104K4T4A                  CVCC_HB2       CAPC1608X90N
+0603YC104K4T4A                  CVCC_HB3       CAPC1608X90N
+STPSC20G12L2Y                   D1             STPSC20G12L2Y
+TPD1E10B06DYAR                  D1_AC_U_A      SODFL1608X77N
+TPD1E10B06DYAR                  D1_AC_U_A      SODFL1608X77N
+MSS1P4-M3/89A                   D1_HB1         FP-96591-MFG
+MSS1P4-M3/89A                   D1_HB2         FP-96591-MFG
+MSS1P4-M3/89A                   D1_HB3         FP-96591-MFG
+TPD1E10B06DYAR                  D1_I_AC_u      SODFL1608X77N
+TPD1E10B06DYAR                  D1_I_AC_v      SODFL1608X77N
+TPD1E10B06DYAR                  D1_I_PV        SODFL1608X77N
+TPD1E10B06DYAR                  D1_U_C1        SODFL1608X77N
+TPD1E10B06DYAR                  D1_U_PV        SODFL1608X77N
+MSS1P4-M3/89A                   D2_HB1         FP-96591-MFG
+MSS1P4-M3/89A                   D2_HB2         FP-96591-MFG
+MSS1P4-M3/89A                   D2_HB3         FP-96591-MFG
+BLM15HD182SH1D                  FB1_AC_U_      FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB1_AC_U_      FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB1_U_C1       FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB1_U_PV       FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB2_AC_U_      FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB2_AC_U_      FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB2_U_C1       FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB2_U_PV       FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB3_AC_U_      FP-BLM15-0_05-IPC_B
+BLM15HD182SH1D                  FB3_AC_U_      FP-BLM15-0_05-IPC_B
+AMC3330DWE                      IC_AC_U_A      SOIC127P1030X265-16N
+AMC3330DWE                      IC_AC_U_A      SOIC127P1030X265-16N
+ACS37030LLZATR-020B3            IC_I_AC_u      ACS37030LLZATR020B3
+ACS37030LLZATR-020B3            IC_I_AC_v      ACS37030LLZATR020B3
+ACS37030LLZATR-020B3            IC_I_PV        ACS37030LLZATR020B3
+AMC3311QDWERQ1                  IC_U_C1        FP-DWE0016A-MFG
+AMC3311QDWERQ1                  IC_U_PV        FP-DWE0016A-MFG
+613003143121                    J?             613003143121
+5019                            J_DIAG_AC      5019_MFG
+5019                            J_DIAG_AC      5019_MFG
+5019                            J_DIAG_U_      5019_MFG
+5019                            J_DIAG_U_      5019_MFG
+60712002241502                  J_I_AC_u       60712002241502
+60712002241502                  J_I_AC_v       60712002241502
+60712002241502                  J_I_PV         60712002241502
+5019                            J_REF_I_A      5019_MFG
+5019                            J_REF_I_A      5019_MFG
+5019                            J_REF_I_P      5019_MFG
+60712002241502                  J_U_AC         60712002241502
+60712002241502                  J_U_AC?        60712002241502
+60712002241502                  J_U_C1         60712002241502
+60712002241502                  J_U_PV         60712002241502
+744139                          L11            744139
+744139                          L12            744139
+744139                          L21            744139
+744139                          L22            744139
+RLB0914-100KL                   L_G_u          RLB0914100KL
+RLB0914-100KL                   L_G_v          RLB0914100KL
+RLB0914-100KL                   L_G_w          RLB0914100KL
+1140-822K-RC                    L_INV_u        1140822KRC
+1140-822K-RC                    L_INV_v        1140822KRC
+1140-822K-RC                    L_INV_w        1140822KRC
+Laborbuchse                     LC_PV_GND      Laborbuchse-Footprint-1
+Laborbuchse                     LC_PV_P        Laborbuchse-Footprint-1
+Laborbuchse                     LC_u           Laborbuchse-Footprint-1
+Laborbuchse                     LC_v           Laborbuchse-Footprint-1
+Laborbuchse                     LC_VDD_DR      Laborbuchse-Footprint-1
+Laborbuchse                     LC_VSS_DR      Laborbuchse-Footprint-1
+Laborbuchse                     LC_w           Laborbuchse-Footprint-1
+61900311121                     P1             61900311121
+61900311121                     P2             61900311121
+61900311121                     P3             61900311121
+61900311121                     P_EN           61900311121
+61900311121                     P_ST           61900311121
+MGJ2D122003SC                   PS_HS1         MGJ2D122003SC
+MGJ2D122003SC                   PS_HS2         MGJ2D122003SC
+MGJ2D122003SC                   PS_HS3         MGJ2D122003SC
+MGJ2D122003SC                   PS_LS          MGJ2D122003SC
+AIMCQ120R040M1T                 QA_HB1         SOP114P2096X250-22N-1
+AIMCQ120R040M1T                 QA_HB2         SOP114P2096X250-22N-1
+AIMCQ120R040M1T                 QA_HB3         SOP114P2096X250-22N-1
+AIMCQ120R040M1T                 QB_HB1         SOP114P2096X250-22N-1
+AIMCQ120R040M1T                 QB_HB2         SOP114P2096X250-22N-1
+AIMCQ120R040M1T                 QB_HB3         SOP114P2096X250-22N-1
+TNPW080510K0BEEA                R1_AC_U_A      RESC2013X55X40NL15T20
+TNPW080510K0BEEA                R1_AC_U_A      RESC2013X55X40NL15T20
+CRGP1206F1M0                    R1_C1          FP-CRGP1206-IPC_C
+CRGP1206F1M0                    R1_PV          FP-CRGP1206-IPC_C
+TNPW080510K0BEEA                R1_REF_AC      RESC2013X55X40NL15T20
+TNPW080510K0BEEA                R1_REF_AC      RESC2013X55X40NL15T20
+RC0805FR-073K3L                 R1_U_C1        RESC2013X60X35NL10T20
+RC0805FR-073K3L                 R1_U_PV        RESC2013X60X35NL10T20
+TNPW080510K0BEEA                R2_AC_U_A      RESC2013X55X40NL15T20
+TNPW080510K0BEEA                R2_AC_U_A      RESC2013X55X40NL15T20
+CRGP1206F1M0                    R2_C1          FP-CRGP1206-IPC_C
+CRGP1206F1M0                    R2_PV          FP-CRGP1206-IPC_C
+TNPW080510K0BEEA                R2_REF_AC      RESC2013X55X40NL15T20
+TNPW080510K0BEEA                R2_REF_AC      RESC2013X55X40NL15T20
+RC0805FR-073K3L                 R2_U_C1        RESC2013X60X35NL10T20
+RC0805FR-073K3L                 R2_U_PV        RESC2013X60X35NL10T20
+TNPW080510K0BEEA                R3_AC_U_A      RESC2013X55X40NL15T20
+TNPW080510K0BEEA                R3_AC_U_A      RESC2013X55X40NL15T20
+CRGP1206F1M0                    R3_C1          FP-CRGP1206-IPC_C
+CRGP1206F1M0                    R3_PV          FP-CRGP1206-IPC_C
+RC0805FR-073K3L                 R3_U_C1        RESC2013X60X35NL10T20
+RC0805FR-073K3L                 R3_U_PV        RESC2013X60X35NL10T20
+TNPW080510K0BEEA                R4_AC_U_A      RESC2013X55X40NL15T20
+TNPW080510K0BEEA                R4_AC_U_A      RESC2013X55X40NL15T20
+RC0805FR-073K3L                 R4_U_C1        RESC2013X60X35NL10T20
+RC0805FR-073K3L                 R4_U_PV        RESC2013X60X35NL10T20
+RC0805FR-0747KL                 R10_AC_U_      RESC2013X60X35NL10T20
+RC0805FR-0747KL                 R10_AC_U_      RESC2013X60X35NL10T20
+RC0805FR-0747KL                 R10_U_C1       RESC2013X60X35NL10T20
+RC0805FR-0747KL                 R10_U_PV       RESC2013X60X35NL10T20
+TNPW12061M00BEEA                R11_AC_u       FP-TNPW1206-e3-IPC_A
+TNPW12061M00BEEA                R11_AC_v       FP-TNPW1206-e3-IPC_A
+TNPW12061M00BEEA                R12_AC_u       FP-TNPW1206-e3-IPC_A
+TNPW12061M00BEEA                R12_AC_v       FP-TNPW1206-e3-IPC_A
+TNPW12061M00BEEA                R21_AC_u       FP-TNPW1206-e3-IPC_A
+TNPW12061M00BEEA                R21_AC_v       FP-TNPW1206-e3-IPC_A
+TNPW12061M00BEEA                R22_AC_u       FP-TNPW1206-e3-IPC_A
+TNPW12061M00BEEA                R22_AC_v       FP-TNPW1206-e3-IPC_A
+ERJ-P08J205V                    R_B2           ERJP08_(1206)
+WK73S2H2TTER56J                 R_D_u          RESC2550X70N
+WK73S2H2TTER56J                 R_D_v          RESC2550X70N
+WK73S2H2TTER56J                 R_D_w          RESC2550X70N
+CRCW060310K0FKEAHP              R_SNS_C1       FP-CRCW0603-HPe3-MFG
+CRCW060310K0FKEAHP              R_SNS_PV       FP-CRCW0603-HPe3-MFG
+RC0603FR-0710KL                 REN_HB1        FP-RC0603-0_55-IPC_A
+RC0603FR-0710KL                 REN_HB2        FP-RC0603-0_55-IPC_A
+RC0603FR-0710KL                 REN_HB3        FP-RC0603-0_55-IPC_A
+ERJ-PC3B4702V                   RGS1_HB1       ERJPC3D9763V
+ERJ-PC3B4702V                   RGS1_HB2       ERJPC3D9763V
+ERJ-PC3B4702V                   RGS1_HB3       ERJPC3D9763V
+ERJ-PC3B4702V                   RGS2_HB1       ERJPC3D9763V
+ERJ-PC3B4702V                   RGS2_HB2       ERJPC3D9763V
+ERJ-PC3B4702V                   RGS2_HB3       ERJPC3D9763V
+RC0603FR-0751RL                 RIN1_HB1       RESC1608X55N
+RC0603FR-0751RL                 RIN1_HB2       RESC1608X55N
+RC0603FR-0751RL                 RIN1_HB3       RESC1608X55N
+RC0603FR-0751RL                 RIN2_HB1       RESC1608X55N
+RC0603FR-0751RL                 RIN2_HB2       RESC1608X55N
+RC0603FR-0751RL                 RIN2_HB3       RESC1608X55N
+RNCL1206FTR470                  ROFF1_HB1      RESC3116X65N
+RNCL1206FTR470                  ROFF1_HB2      RESC3116X65N
+RNCL1206FTR470                  ROFF1_HB3      RESC3116X65N
+RNCL1206FTR470                  ROFF2_HB1      RESC3116X65N
+RNCL1206FTR470                  ROFF2_HB2      RESC3116X65N
+RNCL1206FTR470                  ROFF2_HB3      RESC3116X65N
+ERJ-P08J2R2V                    RON1_HB1       ERJP08_(1206)
+ERJ-P08J2R2V                    RON1_HB2       ERJP08_(1206)
+ERJ-P08J2R2V                    RON1_HB3       ERJP08_(1206)
+ERJ-P08J2R2V                    RON2_HB1       ERJP08_(1206)
+ERJ-P08J2R2V                    RON2_HB2       ERJP08_(1206)
+ERJ-P08J2R2V                    RON2_HB3       ERJP08_(1206)
+TNPW080510K0BEEA                RSNS_AC_u      RESC2013X55X40NL15T20
+TNPW080510K0BEEA                RSNS_AC_v      RESC2013X55X40NL15T20
+MCP6001T-I/OT                   U_DIF_U_A      FP-C04-091-OT-IPC_A
+MCP6001T-I/OT                   U_DIF_U_A      FP-C04-091-OT-IPC_A
+MCP6001T-I/OT                   U_DIF_U_C      FP-C04-091-OT-IPC_A
+MCP6001T-I/OT                   U_DIF_U_P      FP-C04-091-OT-IPC_A
+UCC21530DWKR                    U_DRV_HB1      FP-DWK0014A-MFG
+UCC21530DWKR                    U_DRV_HB2      FP-DWK0014A-MFG
+UCC21530DWKR                    U_DRV_HB3      FP-DWK0014A-MFG
+SN74LVC32AMDREP                 U_GATE1        D0014A_M
+SN74LVC32AMDREP                 U_GATE2        D0014A_M
+MCP6001T-I/OT                   U_REF_U_A      FP-C04-091-OT-IPC_A
+MCP6001T-I/OT                   U_REF_U_A      FP-C04-091-OT-IPC_A
+
+<<< Wire List >>>
+
+  NODE  REFERENCE  PIN #   PIN NAME       PIN TYPE    PART VALUE
+
+[00168] VDDB_DRV_HB1
+        CB1_HB1    1       1              PASSIVE     CC1206KKX7R9BB475
+        CB1_HB2    1       1              PASSIVE     CC1206KKX7R9BB475
+        CB1_HB3    1       1              PASSIVE     CC1206KKX7R9BB475
+        CB2_HB1    1       1              PASSIVE     C0603C104K5RACTU
+        CB2_HB2    1       1              PASSIVE     C0603C104K5RACTU
+        CB2_HB3    1       1              PASSIVE     C0603C104K5RACTU
+        PS_LS      7       +VOUT          PASSIVE     MGJ2D122003SC
+        U_DRV_HB1  11      VDDB           POWER       UCC21530DWKR
+        U_DRV_HB2  11      VDDB           POWER       UCC21530DWKR
+        U_DRV_HB3  11      VDDB           POWER       UCC21530DWKR
+
+[00167] VDDA_DRV_HB3
+        CA1_HB3    1       1              PASSIVE     CC1206KKX7R9BB475
+        CA2_HB3    2       2              PASSIVE     C0603C104K5RACTU
+        PS_HS3     7       +VOUT          PASSIVE     MGJ2D122003SC
+        U_DRV_HB3  16      VDDA           POWER       UCC21530DWKR
+
+[00166] VDDA_DRV_HB2
+        CA1_HB2    1       1              PASSIVE     CC1206KKX7R9BB475
+        CA2_HB2    2       2              PASSIVE     C0603C104K5RACTU
+        PS_HS2     7       +VOUT          PASSIVE     MGJ2D122003SC
+        U_DRV_HB2  16      VDDA           POWER       UCC21530DWKR
+
+[00165] VDDA_DRV_HB1
+        CA1_HB1    1       1              PASSIVE     CC1206KKX7R9BB475
+        CA2_HB1    2       2              PASSIVE     C0603C104K5RACTU
+        PS_HS1     7       +VOUT          PASSIVE     MGJ2D122003SC
+        U_DRV_HB1  16      VDDA           POWER       UCC21530DWKR
+
+[00164] U_REF_U_AC_v
+        C21_AC_U_  2       2              PASSIVE     C0805C102J5GACTU
+        R4_AC_U_A  2       2              PASSIVE     TNPW080510K0BEEA
+        U_REF_U_A  1       VOUT           OUTPUT      MCP6001T-I/OT
+        U_REF_U_A  4       VIN-           INPUT       MCP6001T-I/OT
+
+[00163] U_REF_U_AC_u
+        C21_AC_U_  2       2              PASSIVE     C0805C102J5GACTU
+        R4_AC_U_A  2       2              PASSIVE     TNPW080510K0BEEA
+        U_REF_U_A  1       VOUT           OUTPUT      MCP6001T-I/OT
+        U_REF_U_A  4       VIN-           INPUT       MCP6001T-I/OT
+
+[00162] U_OUT_DC_U_PV
+        C20_U_PV   2       2              PASSIVE     C0805C331J5GACTU
+        D1_U_PV    1       1              PASSIVE     TPD1E10B06DYAR
+        J_U_PV     1       Signal         PASSIVE     60712002241502
+        R2_U_PV    2       2              PASSIVE     RC0805FR-073K3L
+        U_DIF_U_P  1       VOUT           OUTPUT      MCP6001T-I/OT
+
+[00161] U_OUT_DC_U_C1
+        C20_U_C1   2       2              PASSIVE     C0805C331J5GACTU
+        D1_U_C1    1       1              PASSIVE     TPD1E10B06DYAR
+        J_U_C1     1       Signal         PASSIVE     60712002241502
+        R2_U_C1    2       2              PASSIVE     RC0805FR-073K3L
+        U_DIF_U_C  1       VOUT           OUTPUT      MCP6001T-I/OT
+
+[00160] U_DIV_REF_U_AC_v
+        R1_REF_AC  1       1              PASSIVE     TNPW080510K0BEEA
+        R2_REF_AC  2       2              PASSIVE     TNPW080510K0BEEA
+        U_REF_U_A  3       VIN+           INPUT       MCP6001T-I/OT
+
+[00159] U_DIV_REF_U_AC_u
+        R1_REF_AC  1       1              PASSIVE     TNPW080510K0BEEA
+        R2_REF_AC  2       2              PASSIVE     TNPW080510K0BEEA
+        U_REF_U_A  3       VIN+           INPUT       MCP6001T-I/OT
+
+[00158] U_DC_U_PV
+        FB1_U_PV   1       1              PASSIVE     BLM15HD182SH1D
+        R3_PV      2       2              PASSIVE     CRGP1206F1M0
+        R_SNS_PV   1       1              PASSIVE     CRCW060310K0FKEAHP
+
+[00157] U_DC_MEAS_IN_U_PV
+        C10_U_PV   1       1              PASSIVE     C0805C101J5GACTU
+        FB1_U_PV   2       2              PASSIVE     BLM15HD182SH1D
+        IC_U_PV    6       IN             PASSIVE     AMC3311QDWERQ1
+
+[00156] U_DC_MEAS_IN_U_C1
+        C10_U_C1   1       1              PASSIVE     C0805C101J5GACTU
+        FB1_U_C1   2       2              PASSIVE     BLM15HD182SH1D
+        IC_U_C1    6       IN             PASSIVE     AMC3311QDWERQ1
+
+[00155] U_C1
+        FB1_U_C1   1       1              PASSIVE     BLM15HD182SH1D
+        R3_C1      2       2              PASSIVE     CRGP1206F1M0
+        R_SNS_C1   1       1              PASSIVE     CRCW060310K0FKEAHP
+
+[00154] U_AC_U_AC_v_P
+        FB1_AC_U_  1       1              PASSIVE     BLM15HD182SH1D
+        R12_AC_v   1       1              PASSIVE     TNPW12061M00BEEA
+        RSNS_AC_v  2       2              PASSIVE     TNPW080510K0BEEA
+
+[00153] U_AC_U_AC_v_N
+        FB2_AC_U_  1       1              PASSIVE     BLM15HD182SH1D
+        FB3_AC_U_  1       1              PASSIVE     BLM15HD182SH1D
+        R21_AC_v   2       2              PASSIVE     TNPW12061M00BEEA
+        RSNS_AC_v  1       1              PASSIVE     TNPW080510K0BEEA
+
+[00152] U_AC_U_AC_u_P
+        FB1_AC_U_  1       1              PASSIVE     BLM15HD182SH1D
+        R12_AC_u   1       1              PASSIVE     TNPW12061M00BEEA
+        RSNS_AC_u  2       2              PASSIVE     TNPW080510K0BEEA
+
+[00151] U_AC_U_AC_u_N
+        FB2_AC_U_  1       1              PASSIVE     BLM15HD182SH1D
+        FB3_AC_U_  1       1              PASSIVE     BLM15HD182SH1D
+        R21_AC_u   2       2              PASSIVE     TNPW12061M00BEEA
+        RSNS_AC_u  1       1              PASSIVE     TNPW080510K0BEEA
+
+[00150] U_AC_OUT_U_AC_v
+        C20_AC_U_  2       2              PASSIVE     C0805C102J5GACTU
+        D1_AC_U_A  1       1              PASSIVE     TPD1E10B06DYAR
+        J_U_AC?    1       Signal         PASSIVE     60712002241502
+        R2_AC_U_A  1       1              PASSIVE     TNPW080510K0BEEA
+        U_DIF_U_A  1       VOUT           OUTPUT      MCP6001T-I/OT
+
+[00149] U_AC_OUT_U_AC_u
+        C20_AC_U_  2       2              PASSIVE     C0805C102J5GACTU
+        D1_AC_U_A  1       1              PASSIVE     TPD1E10B06DYAR
+        J_U_AC     1       Signal         PASSIVE     60712002241502
+        R2_AC_U_A  1       1              PASSIVE     TNPW080510K0BEEA
+        U_DIF_U_A  1       VOUT           OUTPUT      MCP6001T-I/OT
+
+[00148] ST
+        U_GATE1    2       1B             INPUT       SN74LVC32AMDREP
+        U_GATE1    5       2B             INPUT       SN74LVC32AMDREP
+        U_GATE1    10      3B             INPUT       SN74LVC32AMDREP
+        U_GATE1    13      4B             INPUT       SN74LVC32AMDREP
+        U_GATE2    2       1B             INPUT       SN74LVC32AMDREP
+        U_GATE2    5       2B             INPUT       SN74LVC32AMDREP
+        U_GATE2    8       3Y             OUTPUT      SN74LVC32AMDREP
+
+[00147] SGND
+        C1_I_AC_u  2       2              PASSIVE     0805ZC104K4T2A
+        C1_I_AC_v  2       2              PASSIVE     0805ZC104K4T2A
+        C1_I_PV    2       2              PASSIVE     0805ZC104K4T2A
+        C4_AC_U_A  2       2              PASSIVE     C0603C104K5RACAUTO
+        C4_AC_U_A  2       2              PASSIVE     C0603C104K5RACAUTO
+        C4_U_C1    2       2              PASSIVE     C0603C104K5RACAUTO
+        C4_U_PV    2       2              PASSIVE     C0603C104K5RACAUTO
+        C8_AC_U_A  1       1              PASSIVE     12065C102KAT2A
+        C8_AC_U_A  1       1              PASSIVE     12065C102KAT2A
+        C8_U_C1    1       1              PASSIVE     12065C102KAT2A
+        C8_U_PV    1       1              PASSIVE     12065C102KAT2A
+        C9_AC_U_A  2       2              PASSIVE     12063C105KAT2A
+        C9_AC_U_A  2       2              PASSIVE     12063C105KAT2A
+        C9_U_C1    2       2              PASSIVE     12063C105KAT2A
+        C9_U_PV    2       2              PASSIVE     12063C105KAT2A
+        C21_U_C1   2       2              PASSIVE     C0805C331J5GACTU
+        C21_U_PV   2       2              PASSIVE     C0805C331J5GACTU
+        C_BYP_OP_  2       2              PASSIVE     C0805C104K5RACTU
+        C_BYP_OP_  2       2              PASSIVE     C0805C104K5RACTU
+        C_BYP_REF  2       2              PASSIVE     C0805C104K5RACTU
+        C_BYP_REF  2       2              PASSIVE     C0805C104K5RACTU
+        C_BYP_U_C  2       2              PASSIVE     C0805C104K5RACTU
+        C_BYP_U_P  2       2              PASSIVE     C0805C104K5RACTU
+        C_DEC_1    2       2              PASSIVE     C0603C104K5RACAUTO
+        C_DEC_2    2       2              PASSIVE     C0603C104K5RACAUTO
+        CEN_HB1    2       2              PASSIVE     C0603C102J5GACTU
+        CEN_HB2    2       2              PASSIVE     C0603C102J5GACTU
+        CEN_HB3    2       2              PASSIVE     C0603C102J5GACTU
+        CIN1_HB1   2       2              PASSIVE     C0603C330J5GACTU
+        CIN1_HB2   2       2              PASSIVE     C0603C330J5GACTU
+        CIN1_HB3   2       2              PASSIVE     C0603C330J5GACTU
+        CIN2_HB1   2       2              PASSIVE     C0603C330J5GACTU
+        CIN2_HB2   2       2              PASSIVE     C0603C330J5GACTU
+        CIN2_HB3   2       2              PASSIVE     C0603C330J5GACTU
+        CVCC_HB1   1       1              PASSIVE     0603YC104K4T4A
+        CVCC_HB2   1       1              PASSIVE     0603YC104K4T4A
+        CVCC_HB3   1       1              PASSIVE     0603YC104K4T4A
+        D1_AC_U_A  2       2              PASSIVE     TPD1E10B06DYAR
+        D1_AC_U_A  2       2              PASSIVE     TPD1E10B06DYAR
+        D1_I_AC_u  2       2              PASSIVE     TPD1E10B06DYAR
+        D1_I_AC_v  2       2              PASSIVE     TPD1E10B06DYAR
+        D1_I_PV    2       2              PASSIVE     TPD1E10B06DYAR
+        D1_U_C1    2       2              PASSIVE     TPD1E10B06DYAR
+        D1_U_PV    2       2              PASSIVE     TPD1E10B06DYAR
+        IC_AC_U_A  9       GND            PASSIVE     AMC3330DWE
+        IC_AC_U_A  15      DCDC_GND       PASSIVE     AMC3330DWE
+        IC_AC_U_A  9       GND            PASSIVE     AMC3330DWE
+        IC_AC_U_A  15      DCDC_GND       PASSIVE     AMC3330DWE
+        IC_I_AC_u  3       GND            PASSIVE     ACS37030LLZATR-020B3
+        IC_I_AC_v  3       GND            PASSIVE     ACS37030LLZATR-020B3
+        IC_I_PV    3       GND            PASSIVE     ACS37030LLZATR-020B3
+        IC_U_C1    9       GND            POWER       AMC3311QDWERQ1
+        IC_U_C1    15      DCDC GND       POWER       AMC3311QDWERQ1
+        IC_U_PV    9       GND            POWER       AMC3311QDWERQ1
+        IC_U_PV    15      DCDC GND       POWER       AMC3311QDWERQ1
+        J_I_AC_u   2       GND            PASSIVE     60712002241502
+        J_I_AC_u   3       GND            PASSIVE     60712002241502
+        J_I_AC_u   4       GND            PASSIVE     60712002241502
+        J_I_AC_u   5       GND            PASSIVE     60712002241502
+        J_I_AC_v   2       GND            PASSIVE     60712002241502
+        J_I_AC_v   3       GND            PASSIVE     60712002241502
+        J_I_AC_v   4       GND            PASSIVE     60712002241502
+        J_I_AC_v   5       GND            PASSIVE     60712002241502
+        J_I_PV     2       GND            PASSIVE     60712002241502
+        J_I_PV     3       GND            PASSIVE     60712002241502
+        J_I_PV     4       GND            PASSIVE     60712002241502
+        J_I_PV     5       GND            PASSIVE     60712002241502
+        J_U_AC     2       GND            PASSIVE     60712002241502
+        J_U_AC     3       GND            PASSIVE     60712002241502
+        J_U_AC     4       GND            PASSIVE     60712002241502
+        J_U_AC     5       GND            PASSIVE     60712002241502
+        J_U_AC?    2       GND            PASSIVE     60712002241502
+        J_U_AC?    3       GND            PASSIVE     60712002241502
+        J_U_AC?    4       GND            PASSIVE     60712002241502
+        J_U_AC?    5       GND            PASSIVE     60712002241502
+        J_U_C1     2       GND            PASSIVE     60712002241502
+        J_U_C1     3       GND            PASSIVE     60712002241502
+        J_U_C1     4       GND            PASSIVE     60712002241502
+        J_U_C1     5       GND            PASSIVE     60712002241502
+        J_U_PV     2       GND            PASSIVE     60712002241502
+        J_U_PV     3       GND            PASSIVE     60712002241502
+        J_U_PV     4       GND            PASSIVE     60712002241502
+        J_U_PV     5       GND            PASSIVE     60712002241502
+        P1         3       3              PASSIVE     61900311121
+        P2         3       3              PASSIVE     61900311121
+        P3         3       3              PASSIVE     61900311121
+        P_ST       3       3              PASSIVE     61900311121
+        R2_REF_AC  1       1              PASSIVE     TNPW080510K0BEEA
+        R2_REF_AC  1       1              PASSIVE     TNPW080510K0BEEA
+        R4_U_C1    1       1              PASSIVE     RC0805FR-073K3L
+        R4_U_PV    1       1              PASSIVE     RC0805FR-073K3L
+        U_DIF_U_A  2       VSS            POWER       MCP6001T-I/OT
+        U_DIF_U_A  2       VSS            POWER       MCP6001T-I/OT
+        U_DIF_U_C  2       VSS            POWER       MCP6001T-I/OT
+        U_DIF_U_P  2       VSS            POWER       MCP6001T-I/OT
+        U_DRV_HB1  4       GND            POWER       UCC21530DWKR
+        U_DRV_HB2  4       GND            POWER       UCC21530DWKR
+        U_DRV_HB3  4       GND            POWER       UCC21530DWKR
+        U_GATE1    7       GND            POWER       SN74LVC32AMDREP
+        U_GATE2    7       GND            POWER       SN74LVC32AMDREP
+        U_REF_U_A  2       VSS            POWER       MCP6001T-I/OT
+        U_REF_U_A  2       VSS            POWER       MCP6001T-I/OT
+
+[00146] S_B_GATE_HB3
+
+[00145] S_B_GATE_HB2
+
+[00144] S_B_GATE_HB1
+
+[00143] S_A_GATE_HB3
+        D1_HB3     2       A              PASSIVE     MSS1P4-M3/89A
+        QA_HB3     1       GATE           PASSIVE     AIMCQ120R040M1T
+        RGS1_HB3   1       1              PASSIVE     ERJ-PC3B4702V
+        RON1_HB3   2       2              PASSIVE     ERJ-P08J2R2V
+
+[00142] S_A_GATE_HB2
+        D1_HB2     2       A              PASSIVE     MSS1P4-M3/89A
+        QA_HB2     1       GATE           PASSIVE     AIMCQ120R040M1T
+        RGS1_HB2   1       1              PASSIVE     ERJ-PC3B4702V
+        RON1_HB2   2       2              PASSIVE     ERJ-P08J2R2V
+
+[00141] S_A_GATE_HB1
+        D1_HB1     2       A              PASSIVE     MSS1P4-M3/89A
+        QA_HB1     1       GATE           PASSIVE     AIMCQ120R040M1T
+        RGS1_HB1   1       1              PASSIVE     ERJ-PC3B4702V
+        RON1_HB1   2       2              PASSIVE     ERJ-P08J2R2V
+
+[00140] OUTP_DC_U_PV
+        IC_U_PV    11      OUTP           PASSIVE     AMC3311QDWERQ1
+        R3_U_PV    1       1              PASSIVE     RC0805FR-073K3L
+
+[00139] OUTP_DC_U_C1
+        IC_U_C1    11      OUTP           PASSIVE     AMC3311QDWERQ1
+        R3_U_C1    1       1              PASSIVE     RC0805FR-073K3L
+
+[00138] OUTP_AC_U_AC_v
+        IC_AC_U_A  11      OUTP           PASSIVE     AMC3330DWE
+        R3_AC_U_A  2       2              PASSIVE     TNPW080510K0BEEA
+
+[00137] OUTP_AC_U_AC_u
+        IC_AC_U_A  11      OUTP           PASSIVE     AMC3330DWE
+        R3_AC_U_A  2       2              PASSIVE     TNPW080510K0BEEA
+
+[00136] OUTN_DC_U_PV
+        IC_U_PV    10      OUTN           PASSIVE     AMC3311QDWERQ1
+        R1_U_PV    1       1              PASSIVE     RC0805FR-073K3L
+
+[00135] OUTN_DC_U_C1
+        IC_U_C1    10      OUTN           PASSIVE     AMC3311QDWERQ1
+        R1_U_C1    1       1              PASSIVE     RC0805FR-073K3L
+
+[00134] OUTN_AC_U_AC_v
+        IC_AC_U_A  10      OUTN           PASSIVE     AMC3330DWE
+        R1_AC_U_A  2       2              PASSIVE     TNPW080510K0BEEA
+
+[00133] OUTN_AC_U_AC_u
+        IC_AC_U_A  10      OUTN           PASSIVE     AMC3330DWE
+        R1_AC_U_A  2       2              PASSIVE     TNPW080510K0BEEA
+
+[00132] OUTB_DRV_HB3
+        ROFF2_HB3  1       1              PASSIVE     RNCL1206FTR470
+        RON2_HB3   1       1              PASSIVE     ERJ-P08J2R2V
+        U_DRV_HB3  10      OUTB           OUTPUT      UCC21530DWKR
+
+[00131] OUTB_DRV_HB2
+        ROFF2_HB2  1       1              PASSIVE     RNCL1206FTR470
+        RON2_HB2   1       1              PASSIVE     ERJ-P08J2R2V
+        U_DRV_HB2  10      OUTB           OUTPUT      UCC21530DWKR
+
+[00130] OUTB_DRV_HB1
+        ROFF2_HB1  1       1              PASSIVE     RNCL1206FTR470
+        RON2_HB1   1       1              PASSIVE     ERJ-P08J2R2V
+        U_DRV_HB1  10      OUTB           OUTPUT      UCC21530DWKR
+
+[00129] OUTA_DRV_HB3
+        ROFF1_HB3  1       1              PASSIVE     RNCL1206FTR470
+        RON1_HB3   1       1              PASSIVE     ERJ-P08J2R2V
+        U_DRV_HB3  15      OUTA           OUTPUT      UCC21530DWKR
+
+[00128] OUTA_DRV_HB2
+        ROFF1_HB2  1       1              PASSIVE     RNCL1206FTR470
+        RON1_HB2   1       1              PASSIVE     ERJ-P08J2R2V
+        U_DRV_HB2  15      OUTA           OUTPUT      UCC21530DWKR
+
+[00127] OUTA_DRV_HB1
+        ROFF1_HB1  1       1              PASSIVE     RNCL1206FTR470
+        RON1_HB1   1       1              PASSIVE     ERJ-P08J2R2V
+        U_DRV_HB1  15      OUTA           OUTPUT      UCC21530DWKR
+
+[00126] OUT_I_PV
+        D1_I_PV    1       1              PASSIVE     TPD1E10B06DYAR
+        IC_I_PV    5       VOUT           PASSIVE     ACS37030LLZATR-020B3
+        J_I_PV     1       Signal         PASSIVE     60712002241502
+
+[00125] OUT_I_AC_v
+        D1_I_AC_v  1       1              PASSIVE     TPD1E10B06DYAR
+        IC_I_AC_v  5       VOUT           PASSIVE     ACS37030LLZATR-020B3
+        J_I_AC_v   1       Signal         PASSIVE     60712002241502
+
+[00124] OUT_I_AC_u
+        D1_I_AC_u  1       1              PASSIVE     TPD1E10B06DYAR
+        IC_I_AC_u  5       VOUT           PASSIVE     ACS37030LLZATR-020B3
+        J_I_AC_u   1       Signal         PASSIVE     60712002241502
+
+[00123] OPV_P_DC_U_PV
+        C21_U_PV   1       1              PASSIVE     C0805C331J5GACTU
+        R3_U_PV    2       2              PASSIVE     RC0805FR-073K3L
+        R4_U_PV    2       2              PASSIVE     RC0805FR-073K3L
+        U_DIF_U_P  3       VIN+           INPUT       MCP6001T-I/OT
+
+[00122] OPV_P_DC_U_C1
+        C21_U_C1   1       1              PASSIVE     C0805C331J5GACTU
+        R3_U_C1    2       2              PASSIVE     RC0805FR-073K3L
+        R4_U_C1    2       2              PASSIVE     RC0805FR-073K3L
+        U_DIF_U_C  3       VIN+           INPUT       MCP6001T-I/OT
+
+[00121] OPV_P_AC_U_AC_v
+        C21_AC_U_  1       1              PASSIVE     C0805C102J5GACTU
+        R3_AC_U_A  1       1              PASSIVE     TNPW080510K0BEEA
+        R4_AC_U_A  1       1              PASSIVE     TNPW080510K0BEEA
+        U_DIF_U_A  3       VIN+           INPUT       MCP6001T-I/OT
+
+[00120] OPV_P_AC_U_AC_u
+        C21_AC_U_  1       1              PASSIVE     C0805C102J5GACTU
+        R3_AC_U_A  1       1              PASSIVE     TNPW080510K0BEEA
+        R4_AC_U_A  1       1              PASSIVE     TNPW080510K0BEEA
+        U_DIF_U_A  3       VIN+           INPUT       MCP6001T-I/OT
+
+[00119] OPV_N_DC_U_PV
+        C20_U_PV   1       1              PASSIVE     C0805C331J5GACTU
+        R1_U_PV    2       2              PASSIVE     RC0805FR-073K3L
+        R2_U_PV    1       1              PASSIVE     RC0805FR-073K3L
+        U_DIF_U_P  4       VIN-           INPUT       MCP6001T-I/OT
+
+[00118] OPV_N_DC_U_C1
+        C20_U_C1   1       1              PASSIVE     C0805C331J5GACTU
+        R1_U_C1    2       2              PASSIVE     RC0805FR-073K3L
+        R2_U_C1    1       1              PASSIVE     RC0805FR-073K3L
+        U_DIF_U_C  4       VIN-           INPUT       MCP6001T-I/OT
+
+[00117] OPV_N_AC_U_AC_v
+        C20_AC_U_  1       1              PASSIVE     C0805C102J5GACTU
+        R1_AC_U_A  1       1              PASSIVE     TNPW080510K0BEEA
+        R2_AC_U_A  2       2              PASSIVE     TNPW080510K0BEEA
+        U_DIF_U_A  4       VIN-           INPUT       MCP6001T-I/OT
+
+[00116] OPV_N_AC_U_AC_u
+        C20_AC_U_  1       1              PASSIVE     C0805C102J5GACTU
+        R1_AC_U_A  1       1              PASSIVE     TNPW080510K0BEEA
+        R2_AC_U_A  2       2              PASSIVE     TNPW080510K0BEEA
+        U_DIF_U_A  4       VIN-           INPUT       MCP6001T-I/OT
+
+[00111] NetR21_AC_v_1
+        R21_AC_v   1       1              PASSIVE     TNPW12061M00BEEA
+        R22_AC_v   2       2              PASSIVE     TNPW12061M00BEEA
+
+[00110] NetR21_AC_u_1
+        R21_AC_u   1       1              PASSIVE     TNPW12061M00BEEA
+        R22_AC_u   2       2              PASSIVE     TNPW12061M00BEEA
+
+[00109] NetR11_AC_v_1
+        R11_AC_v   1       1              PASSIVE     TNPW12061M00BEEA
+        R12_AC_v   2       2              PASSIVE     TNPW12061M00BEEA
+
+[00108] NetR11_AC_u_1
+        R11_AC_u   1       1              PASSIVE     TNPW12061M00BEEA
+        R12_AC_u   2       2              PASSIVE     TNPW12061M00BEEA
+
+[00107] NetR2_PV_2
+        R2_PV      2       2              PASSIVE     CRGP1206F1M0
+        R3_PV      1       1              PASSIVE     CRGP1206F1M0
+
+[00106] NetR2_C1_2
+        R2_C1      2       2              PASSIVE     CRGP1206F1M0
+        R3_C1      1       1              PASSIVE     CRGP1206F1M0
+
+[00105] NetR1_PV_2
+        R1_PV      2       2              PASSIVE     CRGP1206F1M0
+        R2_PV      1       1              PASSIVE     CRGP1206F1M0
+
+[00104] NetR1_C1_2
+        R1_C1      2       2              PASSIVE     CRGP1206F1M0
+        R2_C1      1       1              PASSIVE     CRGP1206F1M0
+
+[00099] NetP_ST_2
+        P_ST       2       2              PASSIVE     61900311121
+        U_GATE2    10      3B             INPUT       SN74LVC32AMDREP
+
+[00098] NetP_ST_1
+        P_ST       1       1              PASSIVE     61900311121
+        U_GATE2    9       3A             INPUT       SN74LVC32AMDREP
+
+[00095] NetP3_2
+        P3         2       2              PASSIVE     61900311121
+        U_GATE2    4       2A             INPUT       SN74LVC32AMDREP
+
+[00094] NetP3_1
+        P3         1       1              PASSIVE     61900311121
+        U_GATE2    1       1A             INPUT       SN74LVC32AMDREP
+
+[00093] NetP2_2
+        P2         2       2              PASSIVE     61900311121
+        U_GATE1    12      4A             INPUT       SN74LVC32AMDREP
+
+[00092] NetP2_1
+        P2         1       1              PASSIVE     61900311121
+        U_GATE1    9       3A             INPUT       SN74LVC32AMDREP
+
+[00091] NetP1_2
+        P1         2       2              PASSIVE     61900311121
+        U_GATE1    4       2A             INPUT       SN74LVC32AMDREP
+
+[00090] NetP1_1
+        P1         1       1              PASSIVE     61900311121
+        U_GATE1    1       1A             INPUT       SN74LVC32AMDREP
+
+[00089] NetL_INV_w_1
+        L_INV_w    1       1              PASSIVE     1140-822K-RC
+        QA_HB3     3       POWER SOURCE1  PASSIVE     AIMCQ120R040M1T
+        QA_HB3     4       POWER SOURCE2  PASSIVE     AIMCQ120R040M1T
+        QA_HB3     5       POWER SOURCE3  PASSIVE     AIMCQ120R040M1T
+        QA_HB3     6       POWER SOURCE4  PASSIVE     AIMCQ120R040M1T
+        QA_HB3     7       POWER SOURCE5  PASSIVE     AIMCQ120R040M1T
+        QA_HB3     8       POWER SOURCE6  PASSIVE     AIMCQ120R040M1T
+        QA_HB3     9       POWER SOURCE7  PASSIVE     AIMCQ120R040M1T
+        QA_HB3     10      POWER SOURCE8  PASSIVE     AIMCQ120R040M1T
+        QA_HB3     11      POWER SOURCE9  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     12      DRAIN1         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     13      DRAIN2         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     14      DRAIN3         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     15      DRAIN4         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     16      DRAIN5         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     17      DRAIN6         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     18      DRAIN7         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     19      DRAIN8         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     20      DRAIN9         PASSIVE     AIMCQ120R040M1T
+        QB_HB3     21      DRAIN10        PASSIVE     AIMCQ120R040M1T
+        QB_HB3     22      DRAIN11        PASSIVE     AIMCQ120R040M1T
+
+[00088] NetL_INV_v_1
+        L_INV_v    1       1              PASSIVE     1140-822K-RC
+        QA_HB2     3       POWER SOURCE1  PASSIVE     AIMCQ120R040M1T
+        QA_HB2     4       POWER SOURCE2  PASSIVE     AIMCQ120R040M1T
+        QA_HB2     5       POWER SOURCE3  PASSIVE     AIMCQ120R040M1T
+        QA_HB2     6       POWER SOURCE4  PASSIVE     AIMCQ120R040M1T
+        QA_HB2     7       POWER SOURCE5  PASSIVE     AIMCQ120R040M1T
+        QA_HB2     8       POWER SOURCE6  PASSIVE     AIMCQ120R040M1T
+        QA_HB2     9       POWER SOURCE7  PASSIVE     AIMCQ120R040M1T
+        QA_HB2     10      POWER SOURCE8  PASSIVE     AIMCQ120R040M1T
+        QA_HB2     11      POWER SOURCE9  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     12      DRAIN1         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     13      DRAIN2         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     14      DRAIN3         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     15      DRAIN4         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     16      DRAIN5         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     17      DRAIN6         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     18      DRAIN7         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     19      DRAIN8         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     20      DRAIN9         PASSIVE     AIMCQ120R040M1T
+        QB_HB2     21      DRAIN10        PASSIVE     AIMCQ120R040M1T
+        QB_HB2     22      DRAIN11        PASSIVE     AIMCQ120R040M1T
+
+[00087] NetL_INV_u_1
+        L_INV_u    1       1              PASSIVE     1140-822K-RC
+        QA_HB1     3       POWER SOURCE1  PASSIVE     AIMCQ120R040M1T
+        QA_HB1     4       POWER SOURCE2  PASSIVE     AIMCQ120R040M1T
+        QA_HB1     5       POWER SOURCE3  PASSIVE     AIMCQ120R040M1T
+        QA_HB1     6       POWER SOURCE4  PASSIVE     AIMCQ120R040M1T
+        QA_HB1     7       POWER SOURCE5  PASSIVE     AIMCQ120R040M1T
+        QA_HB1     8       POWER SOURCE6  PASSIVE     AIMCQ120R040M1T
+        QA_HB1     9       POWER SOURCE7  PASSIVE     AIMCQ120R040M1T
+        QA_HB1     10      POWER SOURCE8  PASSIVE     AIMCQ120R040M1T
+        QA_HB1     11      POWER SOURCE9  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     12      DRAIN1         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     13      DRAIN2         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     14      DRAIN3         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     15      DRAIN4         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     16      DRAIN5         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     17      DRAIN6         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     18      DRAIN7         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     19      DRAIN8         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     20      DRAIN9         PASSIVE     AIMCQ120R040M1T
+        QB_HB1     21      DRAIN10        PASSIVE     AIMCQ120R040M1T
+        QB_HB1     22      DRAIN11        PASSIVE     AIMCQ120R040M1T
+
+[00086] NetL_G_w_2
+        L_G_w      2       2              PASSIVE     RLB0914-100KL
+        LC_w       0       A              PASSIVE     Laborbuchse
+
+[00085] NetL_G_w_1
+        L_G_w      1       1              PASSIVE     RLB0914-100KL
+        L_INV_w    2       2              PASSIVE     1140-822K-RC
+        R_D_w      1       1              PASSIVE     WK73S2H2TTER56J
+
+[00084] NetL_G_v_1
+        L_G_v      1       1              PASSIVE     RLB0914-100KL
+        L_INV_v    2       2              PASSIVE     1140-822K-RC
+        R_D_v      1       1              PASSIVE     WK73S2H2TTER56J
+
+[00083] NetL_G_u_1
+        L_G_u      1       1              PASSIVE     RLB0914-100KL
+        L_INV_u    2       2              PASSIVE     1140-822K-RC
+        R_D_u      1       1              PASSIVE     WK73S2H2TTER56J
+
+[00082] NetL21_2
+        L21        2       2              PASSIVE     744139
+        L22        1       1              PASSIVE     744139
+
+[00081] NetL11_2
+        L11        2       2              PASSIVE     744139
+        L12        1       1              PASSIVE     744139
+
+[00075] NetIC_I_PV_4
+        IC_I_PV    4       VREF/FAULT     PASSIVE     ACS37030LLZATR-020B3
+        J_REF_I_P  1       1              PASSIVE     5019
+
+[00074] NetIC_I_AC_v_4
+        IC_I_AC_v  4       VREF/FAULT     PASSIVE     ACS37030LLZATR-020B3
+        J_REF_I_A  1       1              PASSIVE     5019
+
+[00073] NetIC_I_AC_v_2
+        IC_I_AC_v  2       IP-            PASSIVE     ACS37030LLZATR-020B3
+        LC_v       0       A              PASSIVE     Laborbuchse
+
+[00072] NetIC_I_AC_v_1
+        IC_I_AC_v  1       IP+            PASSIVE     ACS37030LLZATR-020B3
+        L_G_v      2       2              PASSIVE     RLB0914-100KL
+        R11_AC_v   2       2              PASSIVE     TNPW12061M00BEEA
+
+[00071] NetIC_I_AC_u_4
+        IC_I_AC_u  4       VREF/FAULT     PASSIVE     ACS37030LLZATR-020B3
+        J_REF_I_A  1       1              PASSIVE     5019
+
+[00068] NetD2_HB3_2
+        D2_HB3     2       A              PASSIVE     MSS1P4-M3/89A
+        QB_HB3     1       GATE           PASSIVE     AIMCQ120R040M1T
+        RGS2_HB3   1       1              PASSIVE     ERJ-PC3B4702V
+        RON2_HB3   2       2              PASSIVE     ERJ-P08J2R2V
+
+[00067] NetD2_HB3_1
+        D2_HB3     1       C              PASSIVE     MSS1P4-M3/89A
+        ROFF2_HB3  2       2              PASSIVE     RNCL1206FTR470
+
+[00066] NetD2_HB2_2
+        D2_HB2     2       A              PASSIVE     MSS1P4-M3/89A
+        QB_HB2     1       GATE           PASSIVE     AIMCQ120R040M1T
+        RGS2_HB2   1       1              PASSIVE     ERJ-PC3B4702V
+        RON2_HB2   2       2              PASSIVE     ERJ-P08J2R2V
+
+[00065] NetD2_HB2_1
+        D2_HB2     1       C              PASSIVE     MSS1P4-M3/89A
+        ROFF2_HB2  2       2              PASSIVE     RNCL1206FTR470
+
+[00064] NetD2_HB1_2
+        D2_HB1     2       A              PASSIVE     MSS1P4-M3/89A
+        QB_HB1     1       GATE           PASSIVE     AIMCQ120R040M1T
+        RGS2_HB1   1       1              PASSIVE     ERJ-PC3B4702V
+        RON2_HB1   2       2              PASSIVE     ERJ-P08J2R2V
+
+[00063] NetD2_HB1_1
+        D2_HB1     1       C              PASSIVE     MSS1P4-M3/89A
+        ROFF2_HB1  2       2              PASSIVE     RNCL1206FTR470
+
+[00062] NetD1_HB3_1
+        D1_HB3     1       C              PASSIVE     MSS1P4-M3/89A
+        ROFF1_HB3  2       2              PASSIVE     RNCL1206FTR470
+
+[00061] NetD1_HB2_1
+        D1_HB2     1       C              PASSIVE     MSS1P4-M3/89A
+        ROFF1_HB2  2       2              PASSIVE     RNCL1206FTR470
+
+[00060] NetD1_HB1_1
+        D1_HB1     1       C              PASSIVE     MSS1P4-M3/89A
+        ROFF1_HB1  2       2              PASSIVE     RNCL1206FTR470
+
+[00057] NetC_F_w_2
+        C_F_w      2       2              PASSIVE     890334027025CS
+        R_D_w      2       2              PASSIVE     WK73S2H2TTER56J
+
+[00056] NetC_F_v_2
+        C_F_v      2       2              PASSIVE     890334027025CS
+        R_D_v      2       2              PASSIVE     WK73S2H2TTER56J
+
+[00055] NetC_F_u_2
+        C_F_u      2       2              PASSIVE     890334027025CS
+        R_D_u      2       2              PASSIVE     WK73S2H2TTER56J
+
+[00054] INP_AC_U_AC_v
+        C10_AC_U_  1       1              PASSIVE     C0805C102J5GACTU
+        FB1_AC_U_  2       2              PASSIVE     BLM15HD182SH1D
+        IC_AC_U_A  6       INP            PASSIVE     AMC3330DWE
+
+[00053] INP_AC_U_AC_u
+        C10_AC_U_  1       1              PASSIVE     C0805C102J5GACTU
+        FB1_AC_U_  2       2              PASSIVE     BLM15HD182SH1D
+        IC_AC_U_A  6       INP            PASSIVE     AMC3330DWE
+
+[00052] INN_AC_U_AC_v
+        C10_AC_U_  2       2              PASSIVE     C0805C102J5GACTU
+        FB2_AC_U_  2       2              PASSIVE     BLM15HD182SH1D
+        IC_AC_U_A  7       INN            PASSIVE     AMC3330DWE
+
+[00051] INN_AC_U_AC_u
+        C10_AC_U_  2       2              PASSIVE     C0805C102J5GACTU
+        FB2_AC_U_  2       2              PASSIVE     BLM15HD182SH1D
+        IC_AC_U_A  7       INN            PASSIVE     AMC3330DWE
+
+[00050] INB_DRV_HB3
+        CIN2_HB3   1       1              PASSIVE     C0603C330J5GACTU
+        RIN2_HB3   2       2              PASSIVE     RC0603FR-0751RL
+        U_DRV_HB3  2       INB            INPUT       UCC21530DWKR
+
+[00049] INB_DRV_HB2
+        CIN2_HB2   1       1              PASSIVE     C0603C330J5GACTU
+        RIN2_HB2   2       2              PASSIVE     RC0603FR-0751RL
+        U_DRV_HB2  2       INB            INPUT       UCC21530DWKR
+
+[00048] INB_DRV_HB1
+        CIN2_HB1   1       1              PASSIVE     C0603C330J5GACTU
+        RIN2_HB1   2       2              PASSIVE     RC0603FR-0751RL
+        U_DRV_HB1  2       INB            INPUT       UCC21530DWKR
+
+[00047] INA_DRV_HB3
+        CIN1_HB3   1       1              PASSIVE     C0603C330J5GACTU
+        RIN1_HB3   2       2              PASSIVE     RC0603FR-0751RL
+        U_DRV_HB3  1       INA            INPUT       UCC21530DWKR
+
+[00046] INA_DRV_HB2
+        CIN1_HB2   1       1              PASSIVE     C0603C330J5GACTU
+        RIN1_HB2   2       2              PASSIVE     RC0603FR-0751RL
+        U_DRV_HB2  1       INA            INPUT       UCC21530DWKR
+
+[00045] INA_DRV_HB1
+        CIN1_HB1   1       1              PASSIVE     C0603C330J5GACTU
+        RIN1_HB1   2       2              PASSIVE     RC0603FR-0751RL
+        U_DRV_HB1  1       INA            INPUT       UCC21530DWKR
+
+[00044] HLDO_OUT_AC_U_AC_v
+        C5_AC_U_A  2       2              PASSIVE     C3216NP01H104J160AA
+        C6_AC_U_A  2       2              PASSIVE     12065C102KAT2A
+        IC_AC_U_A  5       HLDO_OUT       PASSIVE     AMC3330DWE
+
+[00043] HLDO_OUT_AC_U_AC_u
+        C5_AC_U_A  2       2              PASSIVE     C3216NP01H104J160AA
+        C6_AC_U_A  2       2              PASSIVE     12065C102KAT2A
+        IC_AC_U_A  5       HLDO_OUT       PASSIVE     AMC3330DWE
+
+[00042] HLDO_IN_AC_U_AC_v
+        C1_AC_U_A  2       2              PASSIVE     C0603C104K5RACAUTO
+        C2_AC_U_A  2       2              PASSIVE     CGA3E1X7R1E105K080AC
+        C3_AC_U_A  2       2              PASSIVE     C0603C102K5RACTU
+        IC_AC_U_A  1       DCDC_OUT       PASSIVE     AMC3330DWE
+        IC_AC_U_A  3       HLDO_IN        PASSIVE     AMC3330DWE
+
+[00041] HLDO_IN_AC_U_AC_u
+        C1_AC_U_A  2       2              PASSIVE     C0603C104K5RACAUTO
+        C2_AC_U_A  2       2              PASSIVE     CGA3E1X7R1E105K080AC
+        C3_AC_U_A  2       2              PASSIVE     C0603C102K5RACTU
+        IC_AC_U_A  1       DCDC_OUT       PASSIVE     AMC3330DWE
+        IC_AC_U_A  3       HLDO_IN        PASSIVE     AMC3330DWE
+
+[00040] HGND_AC_U_AC_v
+        C1_AC_U_A  1       1              PASSIVE     C0603C104K5RACAUTO
+        C2_AC_U_A  1       1              PASSIVE     CGA3E1X7R1E105K080AC
+        C3_AC_U_A  1       1              PASSIVE     C0603C102K5RACTU
+        C5_AC_U_A  1       1              PASSIVE     C3216NP01H104J160AA
+        C6_AC_U_A  1       1              PASSIVE     12065C102KAT2A
+        FB3_AC_U_  2       2              PASSIVE     BLM15HD182SH1D
+        IC_AC_U_A  2       DCDC_HGND      PASSIVE     AMC3330DWE
+        IC_AC_U_A  8       HGND           PASSIVE     AMC3330DWE
+
+[00039] HGND_AC_U_AC_u
+        C1_AC_U_A  1       1              PASSIVE     C0603C104K5RACAUTO
+        C2_AC_U_A  1       1              PASSIVE     CGA3E1X7R1E105K080AC
+        C3_AC_U_A  1       1              PASSIVE     C0603C102K5RACTU
+        C5_AC_U_A  1       1              PASSIVE     C3216NP01H104J160AA
+        C6_AC_U_A  1       1              PASSIVE     12065C102KAT2A
+        FB3_AC_U_  2       2              PASSIVE     BLM15HD182SH1D
+        IC_AC_U_A  2       DCDC_HGND      PASSIVE     AMC3330DWE
+        IC_AC_U_A  8       HGND           PASSIVE     AMC3330DWE
+
+[00038] HDLO_OUT_DC_U_PV
+        C5_U_PV    2       2              PASSIVE     C3216NP01H104J160AA
+        C6_U_PV    2       2              PASSIVE     12065C102KAT2A
+        IC_U_PV    5       HLDO OUT       POWER       AMC3311QDWERQ1
+
+[00037] HDLO_OUT_DC_U_C1
+        C5_U_C1    2       2              PASSIVE     C3216NP01H104J160AA
+        C6_U_C1    2       2              PASSIVE     12065C102KAT2A
+        IC_U_C1    5       HLDO OUT       POWER       AMC3311QDWERQ1
+
+[00036] GND_IN
+        C1         1       1              PASSIVE     890744427001CS
+        FB2_U_C1   1       1              PASSIVE     BLM15HD182SH1D
+        FB2_U_PV   1       1              PASSIVE     BLM15HD182SH1D
+        LC_PV_GND  0       A              PASSIVE     Laborbuchse
+        QB_HB1     3       POWER SOURCE1  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     4       POWER SOURCE2  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     5       POWER SOURCE3  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     6       POWER SOURCE4  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     7       POWER SOURCE5  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     8       POWER SOURCE6  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     9       POWER SOURCE7  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     10      POWER SOURCE8  PASSIVE     AIMCQ120R040M1T
+        QB_HB1     11      POWER SOURCE9  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     3       POWER SOURCE1  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     4       POWER SOURCE2  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     5       POWER SOURCE3  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     6       POWER SOURCE4  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     7       POWER SOURCE5  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     8       POWER SOURCE6  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     9       POWER SOURCE7  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     10      POWER SOURCE8  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     11      POWER SOURCE9  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     3       POWER SOURCE1  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     4       POWER SOURCE2  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     5       POWER SOURCE3  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     6       POWER SOURCE4  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     7       POWER SOURCE5  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     8       POWER SOURCE6  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     9       POWER SOURCE7  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     10      POWER SOURCE8  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     11      POWER SOURCE9  PASSIVE     AIMCQ120R040M1T
+        R_SNS_C1   2       2              PASSIVE     CRCW060310K0FKEAHP
+        R_SNS_PV   2       2              PASSIVE     CRCW060310K0FKEAHP
+
+[00035] GND_DRV
+        LC_VSS_DR  0       A              PASSIVE     Laborbuchse
+        PS_HS1     2       -VIN           PASSIVE     MGJ2D122003SC
+        PS_HS2     2       -VIN           PASSIVE     MGJ2D122003SC
+        PS_HS3     2       -VIN           PASSIVE     MGJ2D122003SC
+        PS_LS      2       -VIN           PASSIVE     MGJ2D122003SC
+
+[00034] GND_AC
+        C_F_u      1       1              PASSIVE     890334027025CS
+        C_F_v      1       1              PASSIVE     890334027025CS
+        C_F_w      1       1              PASSIVE     890334027025CS
+        R22_AC_u   1       1              PASSIVE     TNPW12061M00BEEA
+        R22_AC_v   1       1              PASSIVE     TNPW12061M00BEEA
+
+[00033] GND
+        U_GATE2    12      4A             INPUT       SN74LVC32AMDREP
+        U_GATE2    13      4B             INPUT       SN74LVC32AMDREP
+
+[00032] EN_DRV_HB1
+        CEN_HB1    1       1              PASSIVE     C0603C102J5GACTU
+        CEN_HB2    1       1              PASSIVE     C0603C102J5GACTU
+        CEN_HB3    1       1              PASSIVE     C0603C102J5GACTU
+        P_EN       1       1              PASSIVE     61900311121
+        REN_HB1    2       2              PASSIVE     RC0603FR-0710KL
+        REN_HB2    2       2              PASSIVE     RC0603FR-0710KL
+        REN_HB3    2       2              PASSIVE     RC0603FR-0710KL
+        U_DRV_HB1  5       EN             INPUT       UCC21530DWKR
+        U_DRV_HB2  5       EN             INPUT       UCC21530DWKR
+        U_DRV_HB3  5       EN             INPUT       UCC21530DWKR
+
+[00031] DIAG_DC_U_PV
+        IC_U_PV    14      DIAG           OPEN COLLECTORAMC3311QDWERQ1
+        J_DIAG_U_  1       1              PASSIVE     5019
+        R10_U_PV   2       2              PASSIVE     RC0805FR-0747KL
+
+[00030] DIAG_DC_U_C1
+        IC_U_C1    14      DIAG           OPEN COLLECTORAMC3311QDWERQ1
+        J_DIAG_U_  1       1              PASSIVE     5019
+        R10_U_C1   2       2              PASSIVE     RC0805FR-0747KL
+
+[00029] DIAG_AC_U_AC_v
+        IC_AC_U_A  14      DIAG           PASSIVE     AMC3330DWE
+        J_DIAG_AC  1       1              PASSIVE     5019
+        R10_AC_U_  1       1              PASSIVE     RC0805FR-0747KL
+
+[00028] DIAG_AC_U_AC_u
+        IC_AC_U_A  14      DIAG           PASSIVE     AMC3330DWE
+        J_DIAG_AC  1       1              PASSIVE     5019
+        R10_AC_U_  1       1              PASSIVE     RC0805FR-0747KL
+
+[00027] DCDC_OUT_DC_U_PV
+        C1_U_PV    2       2              PASSIVE     C0603C104K5RACAUTO
+        C2_U_PV    2       2              PASSIVE     CGA3E1X7R1E105K080AC
+        C3_U_PV    2       2              PASSIVE     C0603C102K5RACTU
+        IC_U_PV    1       DCDC OUT       POWER       AMC3311QDWERQ1
+        IC_U_PV    3       HLDO IN        POWER       AMC3311QDWERQ1
+
+[00026] DCDC_OUT_DC_U_C1
+        C1_U_C1    2       2              PASSIVE     C0603C104K5RACAUTO
+        C2_U_C1    2       2              PASSIVE     CGA3E1X7R1E105K080AC
+        C3_U_C1    2       2              PASSIVE     C0603C102K5RACTU
+        IC_U_C1    1       DCDC OUT       POWER       AMC3311QDWERQ1
+        IC_U_C1    3       HLDO IN        POWER       AMC3311QDWERQ1
+
+[00025] DCDC_IN_DC_U_PV
+        C4_U_PV    1       1              PASSIVE     C0603C104K5RACAUTO
+        IC_U_PV    13      LDO OUT        POWER       AMC3311QDWERQ1
+        IC_U_PV    16      DCDC IN        POWER       AMC3311QDWERQ1
+
+[00024] DCDC_IN_DC_U_C1
+        C4_U_C1    1       1              PASSIVE     C0603C104K5RACAUTO
+        IC_U_C1    13      LDO OUT        POWER       AMC3311QDWERQ1
+        IC_U_C1    16      DCDC IN        POWER       AMC3311QDWERQ1
+
+[00023] DCDC_IN_AC_U_AC_v
+        C4_AC_U_A  1       1              PASSIVE     C0603C104K5RACAUTO
+        IC_AC_U_A  13      LDO_OUT        PASSIVE     AMC3330DWE
+        IC_AC_U_A  16      DCDC_IN        PASSIVE     AMC3330DWE
+
+[00022] DCDC_IN_AC_U_AC_u
+        C4_AC_U_A  1       1              PASSIVE     C0603C104K5RACAUTO
+        IC_AC_U_A  13      LDO_OUT        PASSIVE     AMC3330DWE
+        IC_AC_U_A  16      DCDC_IN        PASSIVE     AMC3330DWE
+
+[00021] DC_LINK_P
+        C2         2       2              PASSIVE     890744427001CS
+        L22        2       2              PASSIVE     744139
+        QA_HB1     12      DRAIN1         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     13      DRAIN2         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     14      DRAIN3         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     15      DRAIN4         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     16      DRAIN5         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     17      DRAIN6         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     18      DRAIN7         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     19      DRAIN8         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     20      DRAIN9         PASSIVE     AIMCQ120R040M1T
+        QA_HB1     21      DRAIN10        PASSIVE     AIMCQ120R040M1T
+        QA_HB1     22      DRAIN11        PASSIVE     AIMCQ120R040M1T
+        QA_HB2     12      DRAIN1         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     13      DRAIN2         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     14      DRAIN3         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     15      DRAIN4         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     16      DRAIN5         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     17      DRAIN6         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     18      DRAIN7         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     19      DRAIN8         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     20      DRAIN9         PASSIVE     AIMCQ120R040M1T
+        QA_HB2     21      DRAIN10        PASSIVE     AIMCQ120R040M1T
+        QA_HB2     22      DRAIN11        PASSIVE     AIMCQ120R040M1T
+        QA_HB3     12      DRAIN1         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     13      DRAIN2         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     14      DRAIN3         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     15      DRAIN4         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     16      DRAIN5         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     17      DRAIN6         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     18      DRAIN7         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     19      DRAIN8         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     20      DRAIN9         PASSIVE     AIMCQ120R040M1T
+        QA_HB3     21      DRAIN10        PASSIVE     AIMCQ120R040M1T
+        QA_HB3     22      DRAIN11        PASSIVE     AIMCQ120R040M1T
+        R_B2       2       2              PASSIVE     ERJ-P08J205V
+
+[00020] DC_IN_P_SENSOR
+        IC_I_PV    1       IP+            PASSIVE     ACS37030LLZATR-020B3
+        LC_PV_P    0       A              PASSIVE     Laborbuchse
+        R1_PV      1       1              PASSIVE     CRGP1206F1M0
+
+[00019] DC_IN_P
+        IC_I_PV    2       IP-            PASSIVE     ACS37030LLZATR-020B3
+        L11        1       1              PASSIVE     744139
+
+[00018] DC_HGND_U_PV
+        C1_U_PV    1       1              PASSIVE     C0603C104K5RACAUTO
+        C2_U_PV    1       1              PASSIVE     CGA3E1X7R1E105K080AC
+        C3_U_PV    1       1              PASSIVE     C0603C102K5RACTU
+        C5_U_PV    1       1              PASSIVE     C3216NP01H104J160AA
+        C6_U_PV    1       1              PASSIVE     12065C102KAT2A
+        C10_U_PV   2       2              PASSIVE     C0805C101J5GACTU
+        FB2_U_PV   2       2              PASSIVE     BLM15HD182SH1D
+        IC_U_PV    2       DCDC HGND      POWER       AMC3311QDWERQ1
+        IC_U_PV    7       HGND           POWER       AMC3311QDWERQ1
+        IC_U_PV    8       HGND           POWER       AMC3311QDWERQ1
+
+[00017] DC_HGND_U_C1
+        C1_U_C1    1       1              PASSIVE     C0603C104K5RACAUTO
+        C2_U_C1    1       1              PASSIVE     CGA3E1X7R1E105K080AC
+        C3_U_C1    1       1              PASSIVE     C0603C102K5RACTU
+        C5_U_C1    1       1              PASSIVE     C3216NP01H104J160AA
+        C6_U_C1    1       1              PASSIVE     12065C102KAT2A
+        C10_U_C1   2       2              PASSIVE     C0805C101J5GACTU
+        FB2_U_C1   2       2              PASSIVE     BLM15HD182SH1D
+        IC_U_C1    2       DCDC HGND      POWER       AMC3311QDWERQ1
+        IC_U_C1    7       HGND           POWER       AMC3311QDWERQ1
+        IC_U_C1    8       HGND           POWER       AMC3311QDWERQ1
+
+[00016] CP
+        RIN1_HB3   1       1              PASSIVE     RC0603FR-0751RL
+        U_GATE2    3       1Y             OUTPUT      SN74LVC32AMDREP
+
+[00015] CN
+        RIN2_HB3   1       1              PASSIVE     RC0603FR-0751RL
+        U_GATE2    6       2Y             OUTPUT      SN74LVC32AMDREP
+
+[00014] C2_P_NODE
+        C2         1       1              PASSIVE     890744427001CS
+        D1         1       A_1            PASSIVE     STPSC20G12L2Y
+        D1         2       A_2            PASSIVE     STPSC20G12L2Y
+        D1         3       A_3            PASSIVE     STPSC20G12L2Y
+        D1         4       A_4            PASSIVE     STPSC20G12L2Y
+        D1         5       A_5            PASSIVE     STPSC20G12L2Y
+        L12        2       2              PASSIVE     744139
+        R_B2       1       1              PASSIVE     ERJ-P08J205V
+
+[00013] C1_P_NODE
+        C1         2       2              PASSIVE     890744427001CS
+        D1         8       K_1            PASSIVE     STPSC20G12L2Y
+        D1         9       K_2            PASSIVE     STPSC20G12L2Y
+        L21        1       1              PASSIVE     744139
+        R1_C1      1       1              PASSIVE     CRGP1206F1M0
+
+[00012] BP
+        RIN2_HB2   1       1              PASSIVE     RC0603FR-0751RL
+        U_GATE1    8       3Y             OUTPUT      SN74LVC32AMDREP
+
+[00011] BN
+        RIN1_HB2   1       1              PASSIVE     RC0603FR-0751RL
+        U_GATE1    11      4Y             OUTPUT      SN74LVC32AMDREP
+
+[00010] AP
+        RIN1_HB1   1       1              PASSIVE     RC0603FR-0751RL
+        U_GATE1    3       1Y             OUTPUT      SN74LVC32AMDREP
+
+[00009] AN
+        RIN2_HB1   1       1              PASSIVE     RC0603FR-0751RL
+        U_GATE1    6       2Y             OUTPUT      SN74LVC32AMDREP
+
+[00008] AC_SENSOR
+        IC_I_AC_u  1       IP+            PASSIVE     ACS37030LLZATR-020B3
+        L_G_u      2       2              PASSIVE     RLB0914-100KL
+        R11_AC_u   2       2              PASSIVE     TNPW12061M00BEEA
+
+[00007] AC_OUT_P
+        IC_I_AC_u  2       IP-            PASSIVE     ACS37030LLZATR-020B3
+        LC_u       0       A              PASSIVE     Laborbuchse
+
+[00006] +12
+        LC_VDD_DR  0       A              PASSIVE     Laborbuchse
+        PS_HS1     1       +VIN           PASSIVE     MGJ2D122003SC
+        PS_HS2     1       +VIN           PASSIVE     MGJ2D122003SC
+        PS_HS3     1       +VIN           PASSIVE     MGJ2D122003SC
+        PS_LS      1       +VIN           PASSIVE     MGJ2D122003SC
+
+[00005] +3.3
+        C1_I_AC_u  1       1              PASSIVE     0805ZC104K4T2A
+        C1_I_AC_v  1       1              PASSIVE     0805ZC104K4T2A
+        C1_I_PV    1       1              PASSIVE     0805ZC104K4T2A
+        C8_AC_U_A  2       2              PASSIVE     12065C102KAT2A
+        C8_AC_U_A  2       2              PASSIVE     12065C102KAT2A
+        C8_U_C1    2       2              PASSIVE     12065C102KAT2A
+        C8_U_PV    2       2              PASSIVE     12065C102KAT2A
+        C9_AC_U_A  1       1              PASSIVE     12063C105KAT2A
+        C9_AC_U_A  1       1              PASSIVE     12063C105KAT2A
+        C9_U_C1    1       1              PASSIVE     12063C105KAT2A
+        C9_U_PV    1       1              PASSIVE     12063C105KAT2A
+        C_BYP_OP_  1       1              PASSIVE     C0805C104K5RACTU
+        C_BYP_OP_  1       1              PASSIVE     C0805C104K5RACTU
+        C_BYP_REF  1       1              PASSIVE     C0805C104K5RACTU
+        C_BYP_REF  1       1              PASSIVE     C0805C104K5RACTU
+        C_BYP_U_C  1       1              PASSIVE     C0805C104K5RACTU
+        C_BYP_U_P  1       1              PASSIVE     C0805C104K5RACTU
+        C_DEC_1    1       1              PASSIVE     C0603C104K5RACAUTO
+        C_DEC_2    1       1              PASSIVE     C0603C104K5RACAUTO
+        CVCC_HB1   2       2              PASSIVE     0603YC104K4T4A
+        CVCC_HB2   2       2              PASSIVE     0603YC104K4T4A
+        CVCC_HB3   2       2              PASSIVE     0603YC104K4T4A
+        IC_AC_U_A  12      VDD            PASSIVE     AMC3330DWE
+        IC_AC_U_A  12      VDD            PASSIVE     AMC3330DWE
+        IC_I_AC_u  6       VDD            PASSIVE     ACS37030LLZATR-020B3
+        IC_I_AC_v  6       VDD            PASSIVE     ACS37030LLZATR-020B3
+        IC_I_PV    6       VDD            PASSIVE     ACS37030LLZATR-020B3
+        IC_U_C1    12      VDD            POWER       AMC3311QDWERQ1
+        IC_U_PV    12      VDD            POWER       AMC3311QDWERQ1
+        R1_REF_AC  2       2              PASSIVE     TNPW080510K0BEEA
+        R1_REF_AC  2       2              PASSIVE     TNPW080510K0BEEA
+        R10_AC_U_  2       2              PASSIVE     RC0805FR-0747KL
+        R10_AC_U_  2       2              PASSIVE     RC0805FR-0747KL
+        R10_U_C1   1       1              PASSIVE     RC0805FR-0747KL
+        R10_U_PV   1       1              PASSIVE     RC0805FR-0747KL
+        REN_HB1    1       1              PASSIVE     RC0603FR-0710KL
+        REN_HB2    1       1              PASSIVE     RC0603FR-0710KL
+        REN_HB3    1       1              PASSIVE     RC0603FR-0710KL
+        U_DIF_U_A  5       VDD            POWER       MCP6001T-I/OT
+        U_DIF_U_A  5       VDD            POWER       MCP6001T-I/OT
+        U_DIF_U_C  5       VDD            POWER       MCP6001T-I/OT
+        U_DIF_U_P  5       VDD            POWER       MCP6001T-I/OT
+        U_DRV_HB1  3       VCCI           POWER       UCC21530DWKR
+        U_DRV_HB1  6       DT             INPUT       UCC21530DWKR
+        U_DRV_HB1  8       VCCI           POWER       UCC21530DWKR
+        U_DRV_HB2  3       VCCI           POWER       UCC21530DWKR
+        U_DRV_HB2  6       DT             INPUT       UCC21530DWKR
+        U_DRV_HB2  8       VCCI           POWER       UCC21530DWKR
+        U_DRV_HB3  3       VCCI           POWER       UCC21530DWKR
+        U_DRV_HB3  6       DT             INPUT       UCC21530DWKR
+        U_DRV_HB3  8       VCCI           POWER       UCC21530DWKR
+        U_GATE1    14      VCC            POWER       SN74LVC32AMDREP
+        U_GATE2    14      VCC            POWER       SN74LVC32AMDREP
+        U_REF_U_A  5       VDD            POWER       MCP6001T-I/OT
+        U_REF_U_A  5       VDD            POWER       MCP6001T-I/OT
+
+[00004] 0V_LS
+        CB1_HB1    2       2              PASSIVE     CC1206KKX7R9BB475
+        CB1_HB2    2       2              PASSIVE     CC1206KKX7R9BB475
+        CB1_HB3    2       2              PASSIVE     CC1206KKX7R9BB475
+        CB2_HB1    2       2              PASSIVE     C0603C104K5RACTU
+        CB2_HB2    2       2              PASSIVE     C0603C104K5RACTU
+        CB2_HB3    2       2              PASSIVE     C0603C104K5RACTU
+        PS_LS      6       OV             PASSIVE     MGJ2D122003SC
+        QB_HB1     2       DRIVER SOURCE  PASSIVE     AIMCQ120R040M1T
+        QB_HB2     2       DRIVER SOURCE  PASSIVE     AIMCQ120R040M1T
+        QB_HB3     2       DRIVER SOURCE  PASSIVE     AIMCQ120R040M1T
+        RGS2_HB1   2       2              PASSIVE     ERJ-PC3B4702V
+        RGS2_HB2   2       2              PASSIVE     ERJ-PC3B4702V
+        RGS2_HB3   2       2              PASSIVE     ERJ-PC3B4702V
+        U_DRV_HB1  9       VSSB           POWER       UCC21530DWKR
+        U_DRV_HB2  9       VSSB           POWER       UCC21530DWKR
+        U_DRV_HB3  9       VSSB           POWER       UCC21530DWKR
+
+[00003] 0V_HS3
+        CA1_HB3    2       2              PASSIVE     CC1206KKX7R9BB475
+        CA2_HB3    1       1              PASSIVE     C0603C104K5RACTU
+        PS_HS3     6       OV             PASSIVE     MGJ2D122003SC
+        QA_HB3     2       DRIVER SOURCE  PASSIVE     AIMCQ120R040M1T
+        RGS1_HB3   2       2              PASSIVE     ERJ-PC3B4702V
+        U_DRV_HB3  14      VSSA           POWER       UCC21530DWKR
+
+[00002] 0V_HS2
+        CA1_HB2    2       2              PASSIVE     CC1206KKX7R9BB475
+        CA2_HB2    1       1              PASSIVE     C0603C104K5RACTU
+        PS_HS2     6       OV             PASSIVE     MGJ2D122003SC
+        QA_HB2     2       DRIVER SOURCE  PASSIVE     AIMCQ120R040M1T
+        RGS1_HB2   2       2              PASSIVE     ERJ-PC3B4702V
+        U_DRV_HB2  14      VSSA           POWER       UCC21530DWKR
+
+[00001] 0V_HS1
+        CA1_HB1    2       2              PASSIVE     CC1206KKX7R9BB475
+        CA2_HB1    1       1              PASSIVE     C0603C104K5RACTU
+        PS_HS1     6       OV             PASSIVE     MGJ2D122003SC
+        QA_HB1     2       DRIVER SOURCE  PASSIVE     AIMCQ120R040M1T
+        RGS1_HB1   2       2              PASSIVE     ERJ-PC3B4702V
+        U_DRV_HB1  14      VSSA           POWER       UCC21530DWKR
+
